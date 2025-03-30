@@ -55,6 +55,13 @@
       }
    }
 
+   button {
+      transition: 250ms;
+      border: 2px 2px;
+      margin: 3px 4px;
+      padding: 4px 4px;
+   }
+
    button:hover {
     background-color: rgb(227, 196, 174);
     border-radius: 4px;
